@@ -1,0 +1,2 @@
+# jsclock
+Javascript clock ödevi
